@@ -1,0 +1,335 @@
+01/03/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+01/03/2020 - GOOGL - La compañía Alphabet Inc., ha sufrido un decremento en las ventas
+01/03/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+01/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+01/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+01/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+01/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha recibido una fuerte sanción económica del organismo regulador
+02/03/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+02/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+02/03/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+02/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+02/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+03/03/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+03/03/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+03/03/2020 - RO - La compañía Roche Holding AG, ha sufrido un decremento en las ventas
+03/03/2020 - RO - La compañía Roche Holding AG, ha reportado una disminución en los beneficios de la compañía
+03/03/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+03/03/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+03/03/2020 - REP - La compañía Repsol SA, ha recibido una fuerte sanción económica del organismo regulador
+03/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+04/03/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+04/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+05/03/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+05/03/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+05/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+06/03/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+06/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+06/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+06/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+07/03/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+07/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+07/03/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+07/03/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+07/03/2020 - REP - La compañía Repsol SA, ha reportado un aumento en los beneficios de la compañía
+07/03/2020 - REP - La compañía Repsol SA, ha abierto una nueva fábrica para aumentar la producción de la compañía
+07/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+07/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+07/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha abierto una nueva fábrica para aumentar la producción de la compañía
+08/03/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+08/03/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+08/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+08/03/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+08/03/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+08/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+08/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+09/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+09/03/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+10/03/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+10/03/2020 - RO - La compañía Roche Holding AG, ha sufrido un decremento en las ventas
+10/03/2020 - RO - La compañía Roche Holding AG, ha reportado una disminución en los beneficios de la compañía
+10/03/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+10/03/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+10/03/2020 - REP - La compañía Repsol SA, ha recibido una fuerte sanción económica del organismo regulador
+10/03/2020 - REP - La compañía Repsol SA, está alcanzando niveles preocupantes de deuda
+10/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+10/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+10/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha recibido una fuerte sanción económica del organismo regulador
+10/03/2020 - GALP - La compañía Galp Energia SGPS S/A, está alcanzando niveles preocupantes de deuda
+11/03/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+12/03/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+12/03/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+12/03/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+12/03/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+12/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+12/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+13/03/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+13/03/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+13/03/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+13/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+13/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+13/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+14/03/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+14/03/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+14/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+14/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+14/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+14/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha abierto una nueva fábrica para aumentar la producción de la compañía
+15/03/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+15/03/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+15/03/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+15/03/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+15/03/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+15/03/2020 - REP - La compañía Repsol SA, ha recibido una fuerte sanción económica del organismo regulador
+16/03/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+16/03/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+16/03/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+16/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+16/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+16/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha recibido una fuerte sanción económica del organismo regulador
+17/03/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+17/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+17/03/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+17/03/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+17/03/2020 - REP - La compañía Repsol SA, ha reportado un aumento en los beneficios de la compañía
+17/03/2020 - REP - La compañía Repsol SA, ha abierto una nueva fábrica para aumentar la producción de la compañía
+17/03/2020 - REP - La compañía Repsol SA, ha reducido sensiblemente la deuda de la compañía
+17/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+17/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+18/03/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+18/03/2020 - GOOGL - La compañía Alphabet Inc., ha sufrido un decremento en las ventas
+18/03/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+18/03/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+18/03/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+18/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+18/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+19/03/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+19/03/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+19/03/2020 - RO - La compañía Roche Holding AG, ha sufrido un decremento en las ventas
+19/03/2020 - RO - La compañía Roche Holding AG, ha reportado una disminución en los beneficios de la compañía
+20/03/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+20/03/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+20/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+20/03/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+20/03/2020 - REP - La compañía Repsol SA, ha reportado un aumento en los beneficios de la compañía
+20/03/2020 - REP - La compañía Repsol SA, ha abierto una nueva fábrica para aumentar la producción de la compañía
+20/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+21/03/2020 - AAPL - La compañía Apple Inc., ha sufrido un decremento en las ventas
+21/03/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+21/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+21/03/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+21/03/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+21/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+22/03/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+22/03/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+22/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+22/03/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+22/03/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+22/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+22/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+22/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha recibido una fuerte sanción económica del organismo regulador
+22/03/2020 - GALP - La compañía Galp Energia SGPS S/A, está alcanzando niveles preocupantes de deuda
+23/03/2020 - GOOGL - La compañía Alphabet Inc., ha sufrido un decremento en las ventas
+23/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+23/03/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+23/03/2020 - REP - La compañía Repsol SA, ha reportado un aumento en los beneficios de la compañía
+23/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+23/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+24/03/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+24/03/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+24/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+24/03/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+24/03/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+24/03/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+24/03/2020 - REP - La compañía Repsol SA, ha recibido una fuerte sanción económica del organismo regulador
+24/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+24/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+24/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha recibido una fuerte sanción económica del organismo regulador
+24/03/2020 - GALP - La compañía Galp Energia SGPS S/A, está alcanzando niveles preocupantes de deuda
+25/03/2020 - GOOGL - La compañía Alphabet Inc., ha sufrido un decremento en las ventas
+25/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+25/03/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+25/03/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+25/03/2020 - REP - La compañía Repsol SA, ha reportado un aumento en los beneficios de la compañía
+25/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+26/03/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+26/03/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+26/03/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+26/03/2020 - REP - La compañía Repsol SA, ha recibido una fuerte sanción económica del organismo regulador
+26/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+26/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+27/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+27/03/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+27/03/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+27/03/2020 - REP - La compañía Repsol SA, ha reportado un aumento en los beneficios de la compañía
+27/03/2020 - REP - La compañía Repsol SA, ha abierto una nueva fábrica para aumentar la producción de la compañía
+27/03/2020 - REP - La compañía Repsol SA, ha reducido sensiblemente la deuda de la compañía
+28/03/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+28/03/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+28/03/2020 - REP - La compañía Repsol SA, ha recibido una fuerte sanción económica del organismo regulador
+28/03/2020 - REP - La compañía Repsol SA, está alcanzando niveles preocupantes de deuda
+29/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+29/03/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+29/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+29/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+29/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha abierto una nueva fábrica para aumentar la producción de la compañía
+30/03/2020 - AAPL - La compañía Apple Inc., ha sufrido un decremento en las ventas
+30/03/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+30/03/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+30/03/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+30/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+30/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+30/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha abierto una nueva fábrica para aumentar la producción de la compañía
+30/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reducido sensiblemente la deuda de la compañía
+31/03/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+31/03/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+31/03/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+31/03/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+31/03/2020 - REP - La compañía Repsol SA, ha recibido una fuerte sanción económica del organismo regulador
+31/03/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+01/04/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+01/04/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+01/04/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha sufrido un decremento en las ventas
+01/04/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+01/04/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+01/04/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+01/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+02/04/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+02/04/2020 - RO - La compañía Roche Holding AG, ha sufrido un decremento en las ventas
+02/04/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+03/04/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+03/04/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+03/04/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+03/04/2020 - REP - La compañía Repsol SA, ha reportado un aumento en los beneficios de la compañía
+03/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+03/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+03/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha abierto una nueva fábrica para aumentar la producción de la compañía
+03/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reducido sensiblemente la deuda de la compañía
+04/04/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+04/04/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+04/04/2020 - RO - La compañía Roche Holding AG, ha sufrido un decremento en las ventas
+04/04/2020 - RO - La compañía Roche Holding AG, ha reportado una disminución en los beneficios de la compañía
+04/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+04/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+05/04/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+05/04/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+05/04/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+05/04/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+05/04/2020 - REP - La compañía Repsol SA, ha recibido una fuerte sanción económica del organismo regulador
+05/04/2020 - REP - La compañía Repsol SA, está alcanzando niveles preocupantes de deuda
+05/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+06/04/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+06/04/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+06/04/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+06/04/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+06/04/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+06/04/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+06/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+06/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+07/04/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+07/04/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+07/04/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+07/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+07/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+08/04/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+08/04/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+08/04/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+08/04/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+08/04/2020 - REP - La compañía Repsol SA, ha reportado un aumento en los beneficios de la compañía
+08/04/2020 - REP - La compañía Repsol SA, ha abierto una nueva fábrica para aumentar la producción de la compañía
+08/04/2020 - REP - La compañía Repsol SA, ha reducido sensiblemente la deuda de la compañía
+08/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+08/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+09/04/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+09/04/2020 - GOOGL - La compañía Alphabet Inc., ha sufrido un decremento en las ventas
+09/04/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+09/04/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+09/04/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+09/04/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+09/04/2020 - REP - La compañía Repsol SA, ha reportado un aumento en los beneficios de la compañía
+09/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+09/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+09/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha abierto una nueva fábrica para aumentar la producción de la compañía
+09/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reducido sensiblemente la deuda de la compañía
+10/04/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+10/04/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha sufrido un decremento en las ventas
+10/04/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+10/04/2020 - REP - La compañía Repsol SA, ha reportado un aumento en los beneficios de la compañía
+10/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+10/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+10/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha recibido una fuerte sanción económica del organismo regulador
+11/04/2020 - AAPL - La compañía Apple Inc., ha sufrido un decremento en las ventas
+11/04/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+11/04/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+11/04/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+11/04/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+11/04/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+11/04/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+11/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+11/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+11/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha recibido una fuerte sanción económica del organismo regulador
+11/04/2020 - GALP - La compañía Galp Energia SGPS S/A, está alcanzando niveles preocupantes de deuda
+12/04/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+12/04/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha sufrido un decremento en las ventas
+12/04/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+12/04/2020 - REP - La compañía Repsol SA, ha reportado un aumento en los beneficios de la compañía
+12/04/2020 - REP - La compañía Repsol SA, ha abierto una nueva fábrica para aumentar la producción de la compañía
+12/04/2020 - REP - La compañía Repsol SA, ha reducido sensiblemente la deuda de la compañía
+12/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+12/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+13/04/2020 - AAPL - La compañía Apple Inc., ha sufrido un decremento en las ventas
+13/04/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+13/04/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+13/04/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+13/04/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+13/04/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+13/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+13/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+14/04/2020 - AAPL - La compañía Apple Inc., ha experimentado un aumento en las ventas
+14/04/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+14/04/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha sufrido un decremento en las ventas
+14/04/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+14/04/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+14/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+14/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+14/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha abierto una nueva fábrica para aumentar la producción de la compañía
+14/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reducido sensiblemente la deuda de la compañía
+15/04/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+15/04/2020 - REP - La compañía Repsol SA, ha reportado un aumento en los beneficios de la compañía
+15/04/2020 - REP - La compañía Repsol SA, ha abierto una nueva fábrica para aumentar la producción de la compañía
+15/04/2020 - REP - La compañía Repsol SA, ha reducido sensiblemente la deuda de la compañía
+15/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+15/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+15/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha abierto una nueva fábrica para aumentar la producción de la compañía
+16/04/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+16/04/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+16/04/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+16/04/2020 - REP - La compañía Repsol SA, ha experimentado un aumento en las ventas
+16/04/2020 - REP - La compañía Repsol SA, ha reportado un aumento en los beneficios de la compañía
+16/04/2020 - REP - La compañía Repsol SA, ha abierto una nueva fábrica para aumentar la producción de la compañía
+16/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+17/04/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+17/04/2020 - RO - La compañía Roche Holding AG, ha reportado un aumento en los beneficios de la compañía
+17/04/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+17/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+17/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+17/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha recibido una fuerte sanción económica del organismo regulador
+17/04/2020 - GALP - La compañía Galp Energia SGPS S/A, está alcanzando niveles preocupantes de deuda
+18/04/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha experimentado un aumento en las ventas
+18/04/2020 - RO - La compañía Roche Holding AG, ha experimentado un aumento en las ventas
+18/04/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+18/04/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+18/04/2020 - REP - La compañía Repsol SA, ha recibido una fuerte sanción económica del organismo regulador
+18/04/2020 - REP - La compañía Repsol SA, está alcanzando niveles preocupantes de deuda
+18/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha sufrido un decremento en las ventas
+18/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado una disminución en los beneficios de la compañía
+18/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha recibido una fuerte sanción económica del organismo regulador
+19/04/2020 - GOOGL - La compañía Alphabet Inc., ha experimentado un aumento en las ventas
+19/04/2020 - TEVA - La compañía Teva Pharmaceutical Industries Ltd., ha sufrido un decremento en las ventas
+19/04/2020 - RO - La compañía Roche Holding AG, ha sufrido un decremento en las ventas
+19/04/2020 - REP - La compañía Repsol SA, ha sufrido un decremento en las ventas
+19/04/2020 - REP - La compañía Repsol SA, ha reportado una disminución en los beneficios de la compañía
+19/04/2020 - REP - La compañía Repsol SA, ha recibido una fuerte sanción económica del organismo regulador
+19/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha experimentado un aumento en las ventas
+19/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha reportado un aumento en los beneficios de la compañía
+19/04/2020 - GALP - La compañía Galp Energia SGPS S/A, ha abierto una nueva fábrica para aumentar la producción de la compañía
